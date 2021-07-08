@@ -1,0 +1,23 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\obj\x86\Debug\Manejo_de_cadenas.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\bin\Debug\Manejo de cadenas.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\bin\Debug\Manejo de cadenas.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\bin\Debug\Manejo de cadenas.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\obj\x86\Debug\Manejo de cadenas.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\obj\x86\Debug\Manejo de cadenas.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Manejo de cadenas\obj\x86\Debug\Manejo de cadenas.pdb
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\Manejo de cadenas.exe
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\Manejo de cadenas.xml
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\Manejo de cadenas.pdb
+E:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\Manejo de cadenas.exe
+E:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\Manejo de cadenas.xml
+E:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\Manejo de cadenas.pdb
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\bin\Debug\Manejo de cadenas.exe
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\bin\Debug\Manejo de cadenas.pdb
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\bin\Debug\Manejo de cadenas.xml
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\Manejo_de_cadenas.Resources.resources
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 1\Manejo de Cadenas\Manejo de cadenas 2010\Manejo de cadenas\Manejo de cadenas\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,39 @@
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\bin\Debug\articulos.exe.config
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\bin\Debug\articulos.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\bin\Debug\articulos.pdb
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\bin\Debug\articulos.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.Resources.resources
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.vbproj.GenerateResource.Cache
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\bin\Debug\articulos.exe.config
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.exe
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.xml
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\bin\Debug\articulos.exe
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\bin\Debug\articulos.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\bin\Debug\articulos.xml
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.vbprojResolveAssemblyReference.cache
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.Resources.resources
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.vbproj.GenerateResource.Cache
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.Form1.resources
+C:\Users\Resioes\Desktop\POO\articulos\articulos\bin\Debug\articulos.exe.config
+C:\Users\Resioes\Desktop\POO\articulos\articulos\obj\Debug\articulos.exe
+C:\Users\Resioes\Desktop\POO\articulos\articulos\obj\Debug\articulos.xml
+C:\Users\Resioes\Desktop\POO\articulos\articulos\obj\Debug\articulos.pdb
+C:\Users\Resioes\Desktop\POO\2do parcial\articulos\articulos\bin\Debug\articulos.exe.config
+C:\Users\Resioes\Desktop\POO\2do parcial\articulos\articulos\obj\Debug\articulos.exe
+C:\Users\Resioes\Desktop\POO\2do parcial\articulos\articulos\obj\Debug\articulos.xml
+C:\Users\Resioes\Desktop\POO\2do parcial\articulos\articulos\obj\Debug\articulos.pdb
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\bin\Debug\articulos.exe.config
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\obj\Debug\articulos.exe
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\obj\Debug\articulos.pdb
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\bin\Debug\articulos.exe
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\bin\Debug\articulos.pdb
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\bin\Debug\articulos.xml
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\obj\Debug\articulos.vbprojResolveAssemblyReference.cache
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\obj\Debug\articulos.Form1.resources
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\obj\Debug\articulos.Resources.resources
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\obj\Debug\articulos.vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\articulos\articulos\obj\Debug\articulos.xml

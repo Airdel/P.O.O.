@@ -1,0 +1,10 @@
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\bin\Debug\If multiple (Clase guiada 29-02-2016).exe
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\bin\Debug\If multiple (Clase guiada 29-02-2016).pdb
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\bin\Debug\If multiple (Clase guiada 29-02-2016).xml
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\obj\x86\Debug\Clase_guiada_29_02_2016.Resources.resources
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\obj\x86\Debug\If multiple (Clase guiada 29-02-2016).exe
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\obj\x86\Debug\If multiple (Clase guiada 29-02-2016).xml
+G:\Programacion\POO\Reporte 1\If multiple (Clase guiada 29-02-2016)\If multiple (Clase guiada 29-02-2016)\obj\x86\Debug\If multiple (Clase guiada 29-02-2016).pdb

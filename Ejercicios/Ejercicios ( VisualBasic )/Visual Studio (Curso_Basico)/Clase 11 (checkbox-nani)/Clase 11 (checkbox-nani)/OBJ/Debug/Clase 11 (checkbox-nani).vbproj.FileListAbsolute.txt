@@ -1,0 +1,11 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\bin\Debug\Clase 11 (checkbox-nani).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\bin\Debug\Clase 11 (checkbox-nani).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\bin\Debug\Clase 11 (checkbox-nani).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\bin\Debug\Clase 11 (checkbox-nani).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\obj\Debug\Clase 11 (checkbox-nani).vbprojResolveAssemblyReference.cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\obj\Debug\Clase_11__checkbox_nani_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\obj\Debug\Clase_11__checkbox_nani_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\obj\Debug\Clase 11 (checkbox-nani).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\obj\Debug\Clase 11 (checkbox-nani).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\obj\Debug\Clase 11 (checkbox-nani).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (checkbox-nani)\Clase 11 (checkbox-nani)\obj\Debug\Clase 11 (checkbox-nani).pdb

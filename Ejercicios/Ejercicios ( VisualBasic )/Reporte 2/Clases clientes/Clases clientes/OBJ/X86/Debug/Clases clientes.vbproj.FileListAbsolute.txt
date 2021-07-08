@@ -1,0 +1,13 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\obj\x86\Debug\Clases_clientes.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\bin\Debug\Clases clientes.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\bin\Debug\Clases clientes.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\bin\Debug\Clases clientes.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\obj\x86\Debug\Clases clientes.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\obj\x86\Debug\Clases clientes.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Clases clientes\obj\x86\Debug\Clases clientes.pdb
+F:\Programacion\POO\Reporte 2\Clases clientes\Clases clientes\obj\x86\Debug\Clases clientes.exe
+F:\Programacion\POO\Reporte 2\Clases clientes\Clases clientes\obj\x86\Debug\Clases clientes.xml
+F:\Programacion\POO\Reporte 2\Clases clientes\Clases clientes\obj\x86\Debug\Clases clientes.pdb

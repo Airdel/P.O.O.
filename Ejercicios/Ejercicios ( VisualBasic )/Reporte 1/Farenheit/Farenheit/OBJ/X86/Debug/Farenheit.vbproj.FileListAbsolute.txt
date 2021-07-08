@@ -1,0 +1,14 @@
+C:\Users\pc1\AppData\Local\Temporary Projects\Farenheit\bin\Debug\Farenheit.exe
+C:\Users\pc1\AppData\Local\Temporary Projects\Farenheit\bin\Debug\Farenheit.pdb
+C:\Users\pc1\AppData\Local\Temporary Projects\Farenheit\bin\Debug\Farenheit.xml
+C:\Users\pc1\AppData\Local\Temporary Projects\Farenheit\obj\x86\Debug\Farenheit.Resources.resources
+C:\Users\pc1\AppData\Local\Temporary Projects\Farenheit\obj\x86\Debug\Farenheit.vbproj.GenerateResource.Cache
+C:\Users\pc1\AppData\Local\Temporary Projects\Farenheit\obj\x86\Debug\Farenheit.exe
+C:\Users\pc1\AppData\Local\Temporary Projects\Farenheit\obj\x86\Debug\Farenheit.xml
+C:\Users\pc1\AppData\Local\Temporary Projects\Farenheit\obj\x86\Debug\Farenheit.pdb
+F:\Programacion\POO\Reporte 1\Farenheit\Farenheit\obj\x86\Debug\Farenheit.exe
+F:\Programacion\POO\Reporte 1\Farenheit\Farenheit\obj\x86\Debug\Farenheit.xml
+F:\Programacion\POO\Reporte 1\Farenheit\Farenheit\obj\x86\Debug\Farenheit.pdb
+I:\Programacion\POO\Reporte 1\Farenheit\Farenheit\obj\x86\Debug\Farenheit.exe
+I:\Programacion\POO\Reporte 1\Farenheit\Farenheit\obj\x86\Debug\Farenheit.xml
+I:\Programacion\POO\Reporte 1\Farenheit\Farenheit\obj\x86\Debug\Farenheit.pdb

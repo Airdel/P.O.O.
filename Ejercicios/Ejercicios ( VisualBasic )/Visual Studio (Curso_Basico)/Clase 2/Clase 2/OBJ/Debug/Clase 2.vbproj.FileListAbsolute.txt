@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\bin\Debug\Clase 2.xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase_2.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase_2.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase 2.vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase 2.xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase 2.pdb

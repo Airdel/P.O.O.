@@ -1,0 +1,10 @@
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\bin\Debug\Mayor de edad.exe
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\bin\Debug\Mayor de edad.pdb
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\bin\Debug\Mayor de edad.xml
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\obj\x86\Debug\Mayor_de_edad.Resources.resources
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\obj\x86\Debug\Mayor de edad.exe
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\obj\x86\Debug\Mayor de edad.xml
+F:\Programacion\POO\Reporte 1\Mayor de edad\Mayor de edad\obj\x86\Debug\Mayor de edad.pdb

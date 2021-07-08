@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\bin\Debug\Clase 13 (Ciclos while y dodododowhile).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\bin\Debug\Clase 13 (Ciclos while y dodododowhile).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\bin\Debug\Clase 13 (Ciclos while y dodododowhile).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\bin\Debug\Clase 13 (Ciclos while y dodododowhile).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\obj\Debug\Clase_13__Ciclos_while_y_dodododowhile_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\obj\Debug\Clase_13__Ciclos_while_y_dodododowhile_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\obj\Debug\Clase 13 (Ciclos while y dodododowhile).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\obj\Debug\Clase 13 (Ciclos while y dodododowhile).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\obj\Debug\Clase 13 (Ciclos while y dodododowhile).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 13 (Ciclos while y dodododowhile)\Clase 13 (Ciclos while y dodododowhile)\obj\Debug\Clase 13 (Ciclos while y dodododowhile).pdb

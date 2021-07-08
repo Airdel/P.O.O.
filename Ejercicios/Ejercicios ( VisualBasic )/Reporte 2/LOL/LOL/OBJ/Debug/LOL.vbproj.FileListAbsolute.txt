@@ -1,0 +1,33 @@
+C:\Users\RAFAEL\Desktop\LOL\LOL\bin\Debug\LOL.exe.config
+C:\Users\RAFAEL\Desktop\LOL\LOL\bin\Debug\LOL.exe
+C:\Users\RAFAEL\Desktop\LOL\LOL\bin\Debug\LOL.pdb
+C:\Users\RAFAEL\Desktop\LOL\LOL\bin\Debug\LOL.xml
+C:\Users\RAFAEL\Desktop\LOL\LOL\obj\Debug\LOL.vbprojResolveAssemblyReference.cache
+C:\Users\RAFAEL\Desktop\LOL\LOL\obj\Debug\LOL.Form1.resources
+C:\Users\RAFAEL\Desktop\LOL\LOL\obj\Debug\LOL.Resources.resources
+C:\Users\RAFAEL\Desktop\LOL\LOL\obj\Debug\LOL.vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Desktop\LOL\LOL\obj\Debug\LOL.exe
+C:\Users\RAFAEL\Desktop\LOL\LOL\obj\Debug\LOL.xml
+C:\Users\RAFAEL\Desktop\LOL\LOL\obj\Debug\LOL.pdb
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\bin\Debug\LOL.exe.config
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.exe
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.xml
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.pdb
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\bin\Debug\LOL.exe
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\bin\Debug\LOL.pdb
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\bin\Debug\LOL.xml
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.vbprojResolveAssemblyReference.cache
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.Form1.resources
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.Resources.resources
+F:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.vbproj.GenerateResource.Cache
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\bin\Debug\LOL.exe.config
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.exe
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.xml
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.pdb
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\bin\Debug\LOL.exe
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\bin\Debug\LOL.pdb
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\bin\Debug\LOL.xml
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.vbprojResolveAssemblyReference.cache
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.Form1.resources
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.Resources.resources
+E:\Escuela\Programacion\POO\Reporte 2\lol\LOL\obj\Debug\LOL.vbproj.GenerateResource.Cache

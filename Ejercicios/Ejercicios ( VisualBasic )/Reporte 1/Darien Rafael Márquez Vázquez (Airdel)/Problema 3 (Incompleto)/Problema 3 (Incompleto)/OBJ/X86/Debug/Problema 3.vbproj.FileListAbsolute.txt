@@ -1,0 +1,10 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\bin\Debug\Problema 3.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\bin\Debug\Problema 3.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\bin\Debug\Problema 3.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\obj\x86\Debug\Problema_3.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\obj\x86\Debug\Problema 3.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\obj\x86\Debug\Problema 3.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 3\obj\x86\Debug\Problema 3.pdb

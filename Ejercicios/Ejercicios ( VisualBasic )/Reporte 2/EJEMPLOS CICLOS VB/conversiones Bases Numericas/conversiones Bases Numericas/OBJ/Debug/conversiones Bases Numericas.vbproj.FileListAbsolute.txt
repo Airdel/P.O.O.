@@ -1,0 +1,10 @@
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\bin\Debug\conversiones Bases Numericas.exe.config
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\bin\Debug\conversiones Bases Numericas.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\bin\Debug\conversiones Bases Numericas.pdb
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\bin\Debug\conversiones Bases Numericas.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\obj\Debug\conversiones Bases Numericas.vbprojResolveAssemblyReference.cache
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\obj\Debug\conversiones_Bases_Numericas.Resources.resources
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\obj\Debug\conversiones Bases Numericas.vbproj.GenerateResource.Cache
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\obj\Debug\conversiones Bases Numericas.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\obj\Debug\conversiones Bases Numericas.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2015\Projects\VB\conversiones Bases Numericas\conversiones Bases Numericas\obj\Debug\conversiones Bases Numericas.pdb

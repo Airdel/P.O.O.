@@ -1,0 +1,11 @@
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\bin\Debug\Herencia4.exe
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\bin\Debug\Herencia4.pdb
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\bin\Debug\Herencia4.xml
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\obj\x86\Debug\Herencia4.vbprojResolveAssemblyReference.cache
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\obj\x86\Debug\Herencia4.altaBicicleta.resources
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\obj\x86\Debug\Herencia4.menuPrincipal.resources
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\obj\x86\Debug\Herencia4.Resources.resources
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\obj\x86\Debug\Herencia4.vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\obj\x86\Debug\Herencia4.exe
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\obj\x86\Debug\Herencia4.xml
+C:\Users\RAFAEL\Desktop\Regulus-respaldo\Escuela\Programacion\POO\Reporte 3\Herencia4\Herencia4\obj\x86\Debug\Herencia4.pdb

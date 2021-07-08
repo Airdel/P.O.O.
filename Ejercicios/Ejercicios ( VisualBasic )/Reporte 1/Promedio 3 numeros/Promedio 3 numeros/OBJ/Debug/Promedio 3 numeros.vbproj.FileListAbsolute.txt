@@ -1,0 +1,9 @@
+G:\Programacion\POO\Reporte 1\Promedio 3 numeros\Promedio 3 numeros\bin\Debug\Promedio 3 numeros.exe.config
+G:\Programacion\POO\Reporte 1\Promedio 3 numeros\Promedio 3 numeros\bin\Debug\Promedio 3 numeros.exe
+G:\Programacion\POO\Reporte 1\Promedio 3 numeros\Promedio 3 numeros\bin\Debug\Promedio 3 numeros.pdb
+G:\Programacion\POO\Reporte 1\Promedio 3 numeros\Promedio 3 numeros\bin\Debug\Promedio 3 numeros.xml
+G:\Programacion\POO\Reporte 1\Promedio 3 numeros\Promedio 3 numeros\obj\Debug\Promedio_3_numeros.Resources.resources
+G:\Programacion\POO\Reporte 1\Promedio 3 numeros\Promedio 3 numeros\obj\Debug\Promedio 3 numeros.vbproj.GenerateResource.Cache
+G:\Programacion\POO\Reporte 1\Promedio 3 numeros\Promedio 3 numeros\obj\Debug\Promedio 3 numeros.exe
+G:\Programacion\POO\Reporte 1\Promedio 3 numeros\Promedio 3 numeros\obj\Debug\Promedio 3 numeros.xml
+G:\Programacion\POO\Reporte 1\Promedio 3 numeros\Promedio 3 numeros\obj\Debug\Promedio 3 numeros.pdb

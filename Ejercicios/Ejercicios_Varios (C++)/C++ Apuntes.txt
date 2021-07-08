@@ -1,0 +1,92 @@
+Librerias base e inicio de programa.
+
+#include "stdafx.h"
+#include <iostream>
+#include <conio.h>
+#include <cmath>
+#include "string.h"
+using namespace std;
+
+void main()
+{
+
+	//cuerpo del programa
+
+	_getch() //Pausa
+}
+
+-----------------------------------------------------------------------------------------------------------------
+
+cabecera de programas
+cout<<"-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-:::Airdel:::_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"<<endl;
+
+-----------------------------------------------------------------------------------------------------------------
+
+codigo para caracteres especiales del español (acento etc.)
+locale::global(locale("spanish"));
+
+-----------------------------------------------------------------------------------------------------------------
+
+Plantilla general Switch-case:
+
+Switch( nombreVariable)
+{
+	case 1: cout<<"La wea";
+		Break;
+	case 2: cout<<"sugoi";
+		Break;
+	case 3: cout<<"desu";
+		Break;
+	case 4: cout<<"ne";
+		Break;
+	Default:
+		<<cout"La wea no sugoi";
+}
+
+-----------------------------------------------------------------------------------------------------------------
+
+Plantilla general del While:
+while("Variable a comparar")
+{
+	cout << nombre<<endl;//accion o acciones a realizar
+	c=c+1;//Contador
+}
+
+-----------------------------------------------------------------------------------------------------------------
+
+Si el programa se desfasa o salta una lectura de datos y realiza otro comando
+cin.ignore();
+
+-----------------------------------------------------------------------------------------------------------------
+
+CREACION DE LIBRERIAS PROPIAS
+1.-En el menu proyecto seleccionar la opcion agregar nuevo elemento
+2.-Seleccionar la opcion "Archivo de encabezado"
+3.-Escribir el nombre de la libreria
+4.-Hacer clic en "agregar"
+5.-Colocar las librerias necesarias
+
+-----------------------------------------------------------------------------------------------------------------
+Comando para hacer mayusculas una cadena.
+
+void imprimeMayusculas(char cad[])
+{
+	for( int x = 0 ; x < strlen(cad) ; x++)
+	{
+		cout << toupper(cad[x]); 
+	}
+}
+
+------------------------------------------------------------------------------------------------------------------
+funcion strcopy para copiar cadenas enteras (sirve para asignar cadenas a variables)
+En vez de: // cadena = "Mexico 25 sur";
+Es: strcopy(cadena, "Mexico 25 sur";
+    funcion |Variable|Cadena a guardar
+
+de la libreria de matematicas y la de cadenas. Escribir en la libreta las funciones y usos de cada una.
+-------------------------------------------------------------------------------------------------------------------
+Para proteguer una cadena de caracteres le ponemos el "const".
+para acelerar un proceso (meterlo a cache para mas velocidad) poner "inline"
+-----------------------------------------------------------------------
+
+ 

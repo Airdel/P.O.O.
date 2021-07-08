@@ -1,0 +1,20 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\bin\Debug\Mi mascota.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\bin\Debug\Mi mascota.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\bin\Debug\Mi mascota.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\obj\x86\Debug\Mi_mascota.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\obj\x86\Debug\Mi mascota.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\obj\x86\Debug\Mi mascota.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Mi mascota\obj\x86\Debug\Mi mascota.pdb
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\obj\x86\Debug\Mi mascota.exe
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\obj\x86\Debug\Mi mascota.xml
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\obj\x86\Debug\Mi mascota.pdb
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\bin\Debug\Mi mascota.exe
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\bin\Debug\Mi mascota.pdb
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\bin\Debug\Mi mascota.xml
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\obj\x86\Debug\Mi_mascota.Resources.resources
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 1\Mi mascota\Mi mascota\obj\x86\Debug\GenerateResource.write.1.tlog

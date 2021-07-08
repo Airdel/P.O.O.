@@ -1,0 +1,11 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\bin\Debug\Clase 16 (tabcontrol-nani).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\bin\Debug\Clase 16 (tabcontrol-nani).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\bin\Debug\Clase 16 (tabcontrol-nani).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\bin\Debug\Clase 16 (tabcontrol-nani).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\obj\Debug\Clase 16 (tabcontrol-nani).vbprojResolveAssemblyReference.cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\obj\Debug\Clase_16__tabcontrol_nani_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\obj\Debug\Clase_16__tabcontrol_nani_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\obj\Debug\Clase 16 (tabcontrol-nani).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\obj\Debug\Clase 16 (tabcontrol-nani).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\obj\Debug\Clase 16 (tabcontrol-nani).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 16 (tabcontrol-nani)\Clase 16 (tabcontrol-nani)\obj\Debug\Clase 16 (tabcontrol-nani).pdb

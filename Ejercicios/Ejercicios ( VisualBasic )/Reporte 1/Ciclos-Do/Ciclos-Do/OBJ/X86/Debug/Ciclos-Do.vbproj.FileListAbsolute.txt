@@ -1,0 +1,13 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\bin\Debug\Ciclos-Do.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\bin\Debug\Ciclos-Do.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\bin\Debug\Ciclos-Do.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\obj\x86\Debug\Ciclos_Do.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\obj\x86\Debug\Ciclos-Do.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\obj\x86\Debug\Ciclos-Do.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Ciclos-Do\obj\x86\Debug\Ciclos-Do.pdb
+F:\Programacion\POO\Reporte 1\Ciclos-Do\Ciclos-Do\obj\x86\Debug\Ciclos-Do.exe
+F:\Programacion\POO\Reporte 1\Ciclos-Do\Ciclos-Do\obj\x86\Debug\Ciclos-Do.xml
+F:\Programacion\POO\Reporte 1\Ciclos-Do\Ciclos-Do\obj\x86\Debug\Ciclos-Do.pdb

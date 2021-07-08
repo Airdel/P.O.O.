@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\bin\Debug\Clase 20 (Keypress del tekztbotz).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\bin\Debug\Clase 20 (Keypress del tekztbotz).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\bin\Debug\Clase 20 (Keypress del tekztbotz).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\bin\Debug\Clase 20 (Keypress del tekztbotz).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\obj\Debug\Clase_20__Keypress_del_tekztbotz_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\obj\Debug\Clase_20__Keypress_del_tekztbotz_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\obj\Debug\Clase 20 (Keypress del tekztbotz).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\obj\Debug\Clase 20 (Keypress del tekztbotz).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\obj\Debug\Clase 20 (Keypress del tekztbotz).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 20 (Keypress del tekztbotz)\Clase 20 (Keypress del tekztbotz)\obj\Debug\Clase 20 (Keypress del tekztbotz).pdb

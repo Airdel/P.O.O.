@@ -1,0 +1,12 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\bin\Debug\Clase 07-04-16.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\bin\Debug\Clase 07-04-16.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\bin\Debug\Clase 07-04-16.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\obj\x86\Debug\Clase_07_04_16.Form1.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\obj\x86\Debug\Clase_07_04_16.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\obj\x86\Debug\Clase 07-04-16.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\obj\x86\Debug\Clase 07-04-16.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\obj\x86\Debug\Clase 07-04-16.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Clase 07-04-16\obj\x86\Debug\Clase_07_04_16.Form2.resources

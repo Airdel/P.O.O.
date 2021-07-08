@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\bin\Debug\Clase 19 (Evento clic del mouse).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\bin\Debug\Clase 19 (Evento clic del mouse).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\bin\Debug\Clase 19 (Evento clic del mouse).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\bin\Debug\Clase 19 (Evento clic del mouse).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\obj\Debug\Clase_19__Evento_clic_del_mouse_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\obj\Debug\Clase_19__Evento_clic_del_mouse_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\obj\Debug\Clase 19 (Evento clic del mouse).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\obj\Debug\Clase 19 (Evento clic del mouse).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\obj\Debug\Clase 19 (Evento clic del mouse).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 19 (Evento clic del mouse)\Clase 19 (Evento clic del mouse)\obj\Debug\Clase 19 (Evento clic del mouse).pdb

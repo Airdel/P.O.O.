@@ -1,0 +1,28 @@
+C:\Users\pc1\AppData\Local\Temporary Projects\consumo electrico\bin\Debug\consumo electrico.exe
+C:\Users\pc1\AppData\Local\Temporary Projects\consumo electrico\bin\Debug\consumo electrico.pdb
+C:\Users\pc1\AppData\Local\Temporary Projects\consumo electrico\bin\Debug\consumo electrico.xml
+C:\Users\pc1\AppData\Local\Temporary Projects\consumo electrico\obj\x86\Debug\consumo_electrico.Resources.resources
+C:\Users\pc1\AppData\Local\Temporary Projects\consumo electrico\obj\x86\Debug\consumo electrico.vbproj.GenerateResource.Cache
+C:\Users\pc1\AppData\Local\Temporary Projects\consumo electrico\obj\x86\Debug\consumo electrico.exe
+C:\Users\pc1\AppData\Local\Temporary Projects\consumo electrico\obj\x86\Debug\consumo electrico.xml
+C:\Users\pc1\AppData\Local\Temporary Projects\consumo electrico\obj\x86\Debug\consumo electrico.pdb
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\consumo electrico.exe
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\consumo electrico.xml
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\consumo electrico.pdb
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\bin\Debug\consumo electrico.exe
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\bin\Debug\consumo electrico.pdb
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\bin\Debug\consumo electrico.xml
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\consumo_electrico.Resources.resources
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\consumo electrico.exe
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\consumo electrico.xml
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\consumo electrico.pdb
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\bin\Debug\consumo electrico.exe
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\bin\Debug\consumo electrico.pdb
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\bin\Debug\consumo electrico.xml
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\consumo_electrico.Resources.resources
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\POO\Reporte 1\consumo electrico\consumo electrico\obj\x86\Debug\GenerateResource.write.1.tlog

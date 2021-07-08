@@ -1,0 +1,70 @@
+Public Class Recibo
+
+	Private idRecibo As Long
+	Private nomCliente As String
+	Private domCliente As String
+	Private numProductos As Short
+	Private precioProducto As Decimal
+	Private totalPagar As Double
+'----------------------------------------------
+'		Propiedades
+
+Public WriteOnly property id As Long
+	Get
+		Return idRecibo
+	End Get
+	Set(ByVal value As Long)
+	value = idRecibo
+	End Set
+End Property
+
+
+Public WriteOnly property nombre As String
+	Get
+		Return nomCliente
+	End Get
+	Set(ByVal value as String)
+	value = nomCliente
+	End Set
+End Property 
+
+Public WriteOnly property domicilio As String
+	Get
+		Return domCliente
+	End Get
+	Set
+		value = nomCliente
+	End Set
+End Property
+
+Public WriteOnly Property numero As Short
+	Get
+		Return numProductos
+	End Get
+	Set
+		value = numProductos
+	end Get
+End Property
+
+Public WriteOnly Property precio As Decimal
+	Get
+		Return precioProducto 
+	End Get
+	Set
+		value = precioProducto
+	End set
+End Property
+
+Public WriteOnly Property 
+
+End Class
+
+Public ReadOnly total As Double
+	Get
+	
+	Return  numero * precio
+
+	End Get
+End Property
+	
+	

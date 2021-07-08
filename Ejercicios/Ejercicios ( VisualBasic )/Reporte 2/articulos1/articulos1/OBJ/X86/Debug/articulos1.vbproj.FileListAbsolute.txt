@@ -1,0 +1,32 @@
+F:\articulos1\articulos1\bin\Debug\articulos1.exe
+F:\articulos1\articulos1\bin\Debug\articulos1.pdb
+F:\articulos1\articulos1\bin\Debug\articulos1.xml
+F:\articulos1\articulos1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\articulos1\articulos1\obj\x86\Debug\articulos.Resources.resources
+F:\articulos1\articulos1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\articulos1\articulos1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\articulos1\articulos1\obj\x86\Debug\articulos1.exe
+F:\articulos1\articulos1\obj\x86\Debug\articulos1.xml
+F:\articulos1\articulos1\obj\x86\Debug\articulos1.pdb
+E:\articulos1\articulos1\obj\x86\Debug\articulos1.exe
+E:\articulos1\articulos1\obj\x86\Debug\articulos1.xml
+E:\articulos1\articulos1\obj\x86\Debug\articulos1.pdb
+E:\articulos1\articulos1\bin\Debug\articulos1.exe
+E:\articulos1\articulos1\bin\Debug\articulos1.pdb
+E:\articulos1\articulos1\bin\Debug\articulos1.xml
+E:\articulos1\articulos1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\articulos1\articulos1\obj\x86\Debug\articulos.Form1.resources
+E:\articulos1\articulos1\obj\x86\Debug\articulos.Resources.resources
+E:\articulos1\articulos1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\articulos1\articulos1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\obj\x86\Debug\articulos1.exe
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\obj\x86\Debug\articulos1.xml
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\obj\x86\Debug\articulos1.pdb
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\bin\Debug\articulos1.exe
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\bin\Debug\articulos1.pdb
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\bin\Debug\articulos1.xml
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\obj\x86\Debug\articulos.form1.resources
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\obj\x86\Debug\articulos.Resources.resources
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Escuela\Programacion\POO\Reporte 2\articulos1\articulos1\obj\x86\Debug\GenerateResource.write.1.tlog

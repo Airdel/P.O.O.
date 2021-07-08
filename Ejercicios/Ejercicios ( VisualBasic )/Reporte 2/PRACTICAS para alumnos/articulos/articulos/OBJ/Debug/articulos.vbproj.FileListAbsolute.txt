@@ -1,0 +1,20 @@
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\bin\Debug\articulos.exe.config
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\bin\Debug\articulos.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\bin\Debug\articulos.pdb
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\bin\Debug\articulos.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.Resources.resources
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.vbproj.GenerateResource.Cache
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\articulos\articulos\obj\Debug\articulos.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\bin\Debug\articulos.exe.config
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.exe
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.xml
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\bin\Debug\articulos.exe
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\bin\Debug\articulos.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\bin\Debug\articulos.xml
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.vbprojResolveAssemblyReference.cache
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.Resources.resources
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.vbproj.GenerateResource.Cache
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\articulos\articulos\obj\Debug\articulos.Form1.resources

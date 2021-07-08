@@ -1,0 +1,11 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\bin\Debug\Clase 5 (etiquetas y cosas nazis).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\bin\Debug\Clase 5 (etiquetas y cosas nazis).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\bin\Debug\Clase 5 (etiquetas y cosas nazis).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\bin\Debug\Clase 5 (etiquetas y cosas nazis).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\obj\Debug\Clase_5__etiquetas_y_cosas_nazis_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\obj\Debug\Clase_5__etiquetas_y_cosas_nazis_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\obj\Debug\Clase 5 (etiquetas y cosas nazis).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\obj\Debug\Clase 5 (etiquetas y cosas nazis).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\obj\Debug\Clase 5 (etiquetas y cosas nazis).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\obj\Debug\Clase 5 (etiquetas y cosas nazis).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 5 (etiquetas y cosas nazis)\Clase 5 (etiquetas y cosas nazis)\obj\Debug\Clase 5 (etiquetas y cosas nazis).vbprojResolveAssemblyReference.cache

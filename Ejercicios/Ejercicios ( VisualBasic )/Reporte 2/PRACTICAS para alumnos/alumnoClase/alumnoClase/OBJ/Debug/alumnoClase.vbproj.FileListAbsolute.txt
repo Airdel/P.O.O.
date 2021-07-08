@@ -1,0 +1,13 @@
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\alumnoClase\alumnoClase\bin\Debug\alumnoClase.exe.config
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\alumnoClase\alumnoClase\bin\Debug\alumnoClase.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\alumnoClase\alumnoClase\bin\Debug\alumnoClase.pdb
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\alumnoClase\alumnoClase\bin\Debug\alumnoClase.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\alumnoClase\alumnoClase\obj\Debug\alumnoClase.Resources.resources
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\alumnoClase\alumnoClase\obj\Debug\alumnoClase.vbproj.GenerateResource.Cache
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\alumnoClase\alumnoClase\obj\Debug\alumnoClase.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\alumnoClase\alumnoClase\obj\Debug\alumnoClase.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\alumnoClase\alumnoClase\obj\Debug\alumnoClase.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\alumnoClase\alumnoClase\bin\Debug\alumnoClase.exe.config
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\alumnoClase\alumnoClase\obj\Debug\alumnoClase.exe
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\alumnoClase\alumnoClase\obj\Debug\alumnoClase.xml
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\alumnoClase\alumnoClase\obj\Debug\alumnoClase.pdb

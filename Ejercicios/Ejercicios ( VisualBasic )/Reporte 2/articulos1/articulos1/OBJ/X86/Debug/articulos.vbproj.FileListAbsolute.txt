@@ -1,0 +1,10 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\bin\Debug\articulos.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\bin\Debug\articulos.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\bin\Debug\articulos.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\obj\x86\Debug\articulos.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\obj\x86\Debug\articulos.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\obj\x86\Debug\articulos.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\articulos\obj\x86\Debug\articulos.pdb

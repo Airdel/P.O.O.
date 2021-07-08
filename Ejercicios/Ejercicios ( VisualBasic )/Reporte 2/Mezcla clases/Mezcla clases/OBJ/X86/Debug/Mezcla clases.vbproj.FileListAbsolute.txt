@@ -1,0 +1,11 @@
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\bin\Debug\Mezcla clases.exe
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\bin\Debug\Mezcla clases.pdb
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\bin\Debug\Mezcla clases.xml
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\obj\x86\Debug\Mezcla_clases.Resources.resources
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\obj\x86\Debug\Mezcla clases.exe
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\obj\x86\Debug\Mezcla clases.xml
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\obj\x86\Debug\Mezcla clases.pdb
+F:\Escuela\Programacion\POO\Reporte 2\Mezcla clases\Mezcla clases\obj\x86\Debug\Mezcla_clases.Form1.resources

@@ -1,0 +1,13 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\bin\Debug\Adivina Palabra.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\bin\Debug\Adivina Palabra.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\bin\Debug\Adivina Palabra.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\obj\x86\Debug\Adivina_Palabra.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\obj\x86\Debug\Adivina Palabra.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\obj\x86\Debug\Adivina Palabra.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Adivina Palabra\obj\x86\Debug\Adivina Palabra.pdb
+F:\Programacion\POO\Reporte 2\Adivina Palabra1\Adivina Palabra\obj\x86\Debug\Adivina Palabra.exe
+F:\Programacion\POO\Reporte 2\Adivina Palabra1\Adivina Palabra\obj\x86\Debug\Adivina Palabra.xml
+F:\Programacion\POO\Reporte 2\Adivina Palabra1\Adivina Palabra\obj\x86\Debug\Adivina Palabra.pdb

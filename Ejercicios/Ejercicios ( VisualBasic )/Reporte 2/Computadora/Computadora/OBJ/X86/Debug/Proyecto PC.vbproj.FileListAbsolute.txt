@@ -1,0 +1,10 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\obj\x86\Debug\Proyecto_PC.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\bin\Debug\Proyecto PC.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\bin\Debug\Proyecto PC.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\bin\Debug\Proyecto PC.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\obj\x86\Debug\Proyecto PC.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\obj\x86\Debug\Proyecto PC.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Proyecto PC\obj\x86\Debug\Proyecto PC.pdb

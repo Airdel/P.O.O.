@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\bin\Debug\Clase 11 (Ciclo fofofofoFOR).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\bin\Debug\Clase 11 (Ciclo fofofofoFOR).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\bin\Debug\Clase 11 (Ciclo fofofofoFOR).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\bin\Debug\Clase 11 (Ciclo fofofofoFOR).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\obj\Debug\Clase_11__Ciclo_fofofofoFOR_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\obj\Debug\Clase_11__Ciclo_fofofofoFOR_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\obj\Debug\Clase 11 (Ciclo fofofofoFOR).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\obj\Debug\Clase 11 (Ciclo fofofofoFOR).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\obj\Debug\Clase 11 (Ciclo fofofofoFOR).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 11 (Ciclo fofofofoFOR)\Clase 11 (Ciclo fofofofoFOR)\obj\Debug\Clase 11 (Ciclo fofofofoFOR).pdb

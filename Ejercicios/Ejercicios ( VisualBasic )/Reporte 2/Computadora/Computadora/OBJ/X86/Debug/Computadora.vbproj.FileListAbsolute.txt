@@ -1,0 +1,3 @@
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\Computadora\Computadora\obj\x86\Debug\Computadora.vbprojResolveAssemblyReference.cache
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\Computadora\Computadora\obj\x86\Debug\Proyecto_PC.Resources.resources
+C:\Users\RAFAEL\Desktop\memoria\Escuela\Programacion\POO\Reporte 2\Computadora\Computadora\obj\x86\Debug\Computadora.vbproj.GenerateResource.Cache

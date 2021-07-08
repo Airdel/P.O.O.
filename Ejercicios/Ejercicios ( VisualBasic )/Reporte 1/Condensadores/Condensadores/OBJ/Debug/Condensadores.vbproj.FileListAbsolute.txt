@@ -1,0 +1,10 @@
+S:\Programacion\Visual Basic\Condensadores\Condensadores\bin\Debug\Condensadores.exe.config
+S:\Programacion\Visual Basic\Condensadores\Condensadores\bin\Debug\Condensadores.exe
+S:\Programacion\Visual Basic\Condensadores\Condensadores\bin\Debug\Condensadores.pdb
+S:\Programacion\Visual Basic\Condensadores\Condensadores\bin\Debug\Condensadores.xml
+S:\Programacion\Visual Basic\Condensadores\Condensadores\obj\Debug\Condensadores.vbprojResolveAssemblyReference.cache
+S:\Programacion\Visual Basic\Condensadores\Condensadores\obj\Debug\Condensadores.Resources.resources
+S:\Programacion\Visual Basic\Condensadores\Condensadores\obj\Debug\Condensadores.vbproj.GenerateResource.Cache
+S:\Programacion\Visual Basic\Condensadores\Condensadores\obj\Debug\Condensadores.exe
+S:\Programacion\Visual Basic\Condensadores\Condensadores\obj\Debug\Condensadores.xml
+S:\Programacion\Visual Basic\Condensadores\Condensadores\obj\Debug\Condensadores.pdb

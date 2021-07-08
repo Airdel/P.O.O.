@@ -1,0 +1,11 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\bin\Debug\Clase 14 (switches-keis).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\obj\Debug\Clase 14 (switches-keis).vbprojResolveAssemblyReference.cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\obj\Debug\Clase_14__switches_keis_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\obj\Debug\Clase_14__switches_keis_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\obj\Debug\Clase 14 (switches-keis).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\obj\Debug\Clase 14 (switches-keis).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\bin\Debug\Clase 14 (switches-keis).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\bin\Debug\Clase 14 (switches-keis).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\bin\Debug\Clase 14 (switches-keis).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\obj\Debug\Clase 14 (switches-keis).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 14 (switches-keis)\Clase 14 (switches-keis)\obj\Debug\Clase 14 (switches-keis).pdb

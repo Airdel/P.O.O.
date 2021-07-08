@@ -1,0 +1,20 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\bin\Debug\ProgramaTV10.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\bin\Debug\ProgramaTV10.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\bin\Debug\ProgramaTV10.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\obj\x86\Debug\ProgramaTV10.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\obj\x86\Debug\ProgramaTV10.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\obj\x86\Debug\ProgramaTV10.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\ProgramaTV10\obj\x86\Debug\ProgramaTV10.pdb
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\obj\x86\Debug\ProgramaTV10.exe
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\obj\x86\Debug\ProgramaTV10.xml
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\obj\x86\Debug\ProgramaTV10.pdb
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\obj\x86\Debug\ProgramaTV10.Resources.resources
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\bin\Debug\ProgramaTV10.exe
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\bin\Debug\ProgramaTV10.pdb
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\ProgramaTV10\ProgramaTV10\bin\Debug\ProgramaTV10.xml

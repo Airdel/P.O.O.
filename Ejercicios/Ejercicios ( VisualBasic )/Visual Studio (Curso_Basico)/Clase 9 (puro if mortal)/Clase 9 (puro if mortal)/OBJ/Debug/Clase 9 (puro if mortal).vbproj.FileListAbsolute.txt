@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\bin\Debug\Clase 9 (puro if mortal).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\bin\Debug\Clase 9 (puro if mortal).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\bin\Debug\Clase 9 (puro if mortal).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\bin\Debug\Clase 9 (puro if mortal).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\obj\Debug\Clase_9__puro_if_mortal_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\obj\Debug\Clase_9__puro_if_mortal_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\obj\Debug\Clase 9 (puro if mortal).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\obj\Debug\Clase 9 (puro if mortal).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\obj\Debug\Clase 9 (puro if mortal).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 9 (puro if mortal)\Clase 9 (puro if mortal)\obj\Debug\Clase 9 (puro if mortal).pdb

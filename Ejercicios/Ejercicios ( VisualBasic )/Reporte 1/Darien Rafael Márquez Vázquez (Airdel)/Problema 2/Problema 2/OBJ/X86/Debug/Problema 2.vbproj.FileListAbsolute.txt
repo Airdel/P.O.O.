@@ -1,0 +1,13 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\bin\Debug\Problema 2.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\bin\Debug\Problema 2.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\bin\Debug\Problema 2.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\obj\x86\Debug\Problema_2.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\obj\x86\Debug\Problema 2.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\obj\x86\Debug\Problema 2.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Problema 2\obj\x86\Debug\Problema 2.pdb
+F:\Darien Rafael Márquez Vázquez (Airdel)\Problema 2\Problema 2\obj\x86\Debug\Problema 2.exe
+F:\Darien Rafael Márquez Vázquez (Airdel)\Problema 2\Problema 2\obj\x86\Debug\Problema 2.xml
+F:\Darien Rafael Márquez Vázquez (Airdel)\Problema 2\Problema 2\obj\x86\Debug\Problema 2.pdb

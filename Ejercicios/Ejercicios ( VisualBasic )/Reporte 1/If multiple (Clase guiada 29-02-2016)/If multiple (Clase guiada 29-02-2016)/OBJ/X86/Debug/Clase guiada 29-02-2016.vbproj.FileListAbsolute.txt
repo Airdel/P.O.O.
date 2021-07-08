@@ -1,0 +1,10 @@
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\bin\Debug\Clase guiada 29-02-2016.exe
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\bin\Debug\Clase guiada 29-02-2016.pdb
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\bin\Debug\Clase guiada 29-02-2016.xml
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\obj\x86\Debug\Clase_guiada_29_02_2016.Resources.resources
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\obj\x86\Debug\Clase guiada 29-02-2016.exe
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\obj\x86\Debug\Clase guiada 29-02-2016.xml
+C:\Users\mac2\AppData\Local\Temporary Projects\Clase guiada 29-02-2016\obj\x86\Debug\Clase guiada 29-02-2016.pdb

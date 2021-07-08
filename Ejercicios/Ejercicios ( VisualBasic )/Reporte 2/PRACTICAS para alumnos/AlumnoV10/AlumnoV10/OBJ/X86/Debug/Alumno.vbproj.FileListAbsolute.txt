@@ -1,0 +1,10 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\bin\Debug\Alumno.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\bin\Debug\Alumno.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\bin\Debug\Alumno.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\obj\x86\Debug\Alumno.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\obj\x86\Debug\Alumno.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\obj\x86\Debug\Alumno.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Alumno\obj\x86\Debug\Alumno.pdb

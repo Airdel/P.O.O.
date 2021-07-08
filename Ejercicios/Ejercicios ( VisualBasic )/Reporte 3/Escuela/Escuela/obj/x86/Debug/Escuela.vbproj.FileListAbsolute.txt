@@ -1,0 +1,10 @@
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\bin\Debug\Escuela.exe
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\bin\Debug\Escuela.pdb
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\bin\Debug\Escuela.xml
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\obj\x86\Debug\Escuela.Resources.resources
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\obj\x86\Debug\Escuela.exe
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\obj\x86\Debug\Escuela.xml
+F:\Escuela\Programacion\POO\Reporte 3\Escuela\Escuela\obj\x86\Debug\Escuela.pdb

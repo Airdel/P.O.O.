@@ -1,0 +1,19 @@
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Consola\adivinaPalabra\adivinaPalabra\bin\Debug\adivinaPalabra.exe.config
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Consola\adivinaPalabra\adivinaPalabra\bin\Debug\adivinaPalabra.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Consola\adivinaPalabra\adivinaPalabra\bin\Debug\adivinaPalabra.pdb
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Consola\adivinaPalabra\adivinaPalabra\bin\Debug\adivinaPalabra.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.Resources.resources
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.vbproj.GenerateResource.Cache
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\bin\Debug\adivinaPalabra.exe.config
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.exe
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.xml
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\bin\Debug\adivinaPalabra.exe
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\bin\Debug\adivinaPalabra.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\bin\Debug\adivinaPalabra.xml
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.vbprojResolveAssemblyReference.cache
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.Resources.resources
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Consola\adivinaPalabra\adivinaPalabra\obj\Debug\adivinaPalabra.vbproj.GenerateResource.Cache

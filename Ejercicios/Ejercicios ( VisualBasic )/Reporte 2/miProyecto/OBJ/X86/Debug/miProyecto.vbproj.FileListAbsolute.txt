@@ -1,0 +1,11 @@
+C:\Users\pc1\Documents\miProyecto\bin\Debug\miProyecto.exe
+C:\Users\pc1\Documents\miProyecto\bin\Debug\miProyecto.pdb
+C:\Users\pc1\Documents\miProyecto\bin\Debug\miProyecto.xml
+C:\Users\pc1\Documents\miProyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pc1\Documents\miProyecto\obj\x86\Debug\miProyecto.Form1.resources
+C:\Users\pc1\Documents\miProyecto\obj\x86\Debug\miProyecto.Resources.resources
+C:\Users\pc1\Documents\miProyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pc1\Documents\miProyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc1\Documents\miProyecto\obj\x86\Debug\miProyecto.exe
+C:\Users\pc1\Documents\miProyecto\obj\x86\Debug\miProyecto.xml
+C:\Users\pc1\Documents\miProyecto\obj\x86\Debug\miProyecto.pdb

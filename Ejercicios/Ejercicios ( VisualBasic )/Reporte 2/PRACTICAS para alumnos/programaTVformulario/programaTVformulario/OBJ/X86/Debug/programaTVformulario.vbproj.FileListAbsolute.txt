@@ -1,0 +1,23 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\bin\Debug\programaTVformulario.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\bin\Debug\programaTVformulario.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\bin\Debug\programaTVformulario.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\obj\x86\Debug\programaTVformulario.Form1.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\obj\x86\Debug\programaTVformulario.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\obj\x86\Debug\programaTVformulario.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\obj\x86\Debug\programaTVformulario.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\programaTVformulario\obj\x86\Debug\programaTVformulario.pdb
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\obj\x86\Debug\programaTVformulario.exe
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\obj\x86\Debug\programaTVformulario.xml
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\obj\x86\Debug\programaTVformulario.pdb
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\obj\x86\Debug\programaTVformulario.Form1.resources
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\obj\x86\Debug\programaTVformulario.Resources.resources
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\bin\Debug\programaTVformulario.exe
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\bin\Debug\programaTVformulario.pdb
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\bin\Debug\programaTVformulario.xml
+F:\Programacion\POO\Reporte 2\PRACTICAS para alumnos\programaTVformulario\programaTVformulario\obj\x86\Debug\programaTVformulario.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\bin\Debug\Clase 10(Radiobububuton).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\bin\Debug\Clase 10(Radiobububuton).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\bin\Debug\Clase 10(Radiobububuton).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\bin\Debug\Clase 10(Radiobububuton).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\obj\Debug\Clase_10_Radiobububuton_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\obj\Debug\Clase_10_Radiobububuton_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\obj\Debug\Clase 10(Radiobububuton).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\obj\Debug\Clase 10(Radiobububuton).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\obj\Debug\Clase 10(Radiobububuton).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 10(Radiobububuton)\Clase 10(Radiobububuton)\obj\Debug\Clase 10(Radiobububuton).pdb

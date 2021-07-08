@@ -1,0 +1,10 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\obj\x86\Debug\Suma_de_2_valores.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\bin\Debug\Suma de 2 valores.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\bin\Debug\Suma de 2 valores.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\bin\Debug\Suma de 2 valores.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\obj\x86\Debug\Suma de 2 valores.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\obj\x86\Debug\Suma de 2 valores.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Suma de 2 valores\obj\x86\Debug\Suma de 2 valores.pdb

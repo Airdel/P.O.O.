@@ -1,0 +1,10 @@
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\bin\Debug\Manejo de Cadenas.exe.config
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\obj\Debug\Manejo de Cadenas.vbprojResolveAssemblyReference.cache
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\obj\Debug\Manejo_de_Cadenas.Resources.resources
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\obj\Debug\Manejo de Cadenas.vbproj.GenerateResource.Cache
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\bin\Debug\Manejo de Cadenas.exe
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\bin\Debug\Manejo de Cadenas.pdb
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\bin\Debug\Manejo de Cadenas.xml
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\obj\Debug\Manejo de Cadenas.exe
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\obj\Debug\Manejo de Cadenas.xml
+S:\Programacion\Visual Basic\Manejo de Cadenas\Manejo de Cadenas\obj\Debug\Manejo de Cadenas.pdb

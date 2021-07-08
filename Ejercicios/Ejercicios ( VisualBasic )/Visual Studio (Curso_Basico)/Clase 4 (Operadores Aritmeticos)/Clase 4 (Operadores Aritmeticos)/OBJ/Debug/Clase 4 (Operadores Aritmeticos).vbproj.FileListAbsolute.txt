@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\bin\Debug\Clase 4 (Operadores Aritmeticos).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\bin\Debug\Clase 4 (Operadores Aritmeticos).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\bin\Debug\Clase 4 (Operadores Aritmeticos).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\bin\Debug\Clase 4 (Operadores Aritmeticos).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\obj\Debug\Clase_4__Operadores_Aritmeticos_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\obj\Debug\Clase_4__Operadores_Aritmeticos_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\obj\Debug\Clase 4 (Operadores Aritmeticos).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\obj\Debug\Clase 4 (Operadores Aritmeticos).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\obj\Debug\Clase 4 (Operadores Aritmeticos).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 4 (Operadores Aritmeticos)\Clase 4 (Operadores Aritmeticos)\obj\Debug\Clase 4 (Operadores Aritmeticos).pdb

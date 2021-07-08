@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\bin\Debug\Clase 18(Funciones con parametros aydio).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\bin\Debug\Clase 18(Funciones con parametros aydio).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\bin\Debug\Clase 18(Funciones con parametros aydio).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\bin\Debug\Clase 18(Funciones con parametros aydio).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\obj\Debug\Clase_18_Funciones_con_parametros_aydio_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\obj\Debug\Clase_18_Funciones_con_parametros_aydio_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\obj\Debug\Clase 18(Funciones con parametros aydio).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\obj\Debug\Clase 18(Funciones con parametros aydio).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\obj\Debug\Clase 18(Funciones con parametros aydio).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 18(Funciones con parametros aydio)\Clase 18(Funciones con parametros aydio)\obj\Debug\Clase 18(Funciones con parametros aydio).pdb

@@ -1,0 +1,10 @@
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\Operadores Aritmeticos.exe
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\Operadores Aritmeticos.pdb
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\Operadores Aritmeticos.xml
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\obj\x86\Debug\Operadores_Aritmeticos.Resources.resources
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\obj\x86\Debug\Operadores Aritmeticos.exe
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\obj\x86\Debug\Operadores Aritmeticos.xml
+F:\Programacion\POO\Reporte 1\Operadores Aritmeticos\Operadores Aritmeticos\obj\x86\Debug\Operadores Aritmeticos.pdb

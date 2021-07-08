@@ -1,0 +1,20 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\bin\Debug\Declaración de variables.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\bin\Debug\Declaración de variables.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\bin\Debug\Declaración de variables.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\obj\x86\Debug\Declaración_de_variables.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\obj\x86\Debug\Declaración de variables.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\obj\x86\Debug\Declaración de variables.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Declaración de variables\obj\x86\Debug\Declaración de variables.pdb
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\obj\x86\Debug\Declaración de variables.exe
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\obj\x86\Debug\Declaración de variables.xml
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\obj\x86\Debug\Declaración de variables.pdb
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\bin\Debug\Declaración de variables.exe
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\bin\Debug\Declaración de variables.pdb
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\bin\Debug\Declaración de variables.xml
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\obj\x86\Debug\Declaración_de_variables.Resources.resources
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 1\Declaración de variables\Declaración de variables\obj\x86\Debug\GenerateResource.write.1.tlog

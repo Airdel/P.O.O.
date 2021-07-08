@@ -1,0 +1,20 @@
+﻿Compilación iniciada a las 07/10/2015 03:59:49 p.m..
+     1>Proyecto "E:\C++\Ejercicio c++1\Ejercicio c++1\Ejercicio c++1.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\Ejercicio c++1.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Ejercicio c++1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Ejercicio c++1.cpp"
+         Ejercicio c++1.cpp
+     1>e:\c++\ejercicio c++1\ejercicio c++1\ejercicio c++1.cpp(12): error C2062: tipo 'float' inesperado
+     1>e:\c++\ejercicio c++1\ejercicio c++1\ejercicio c++1.cpp(22): warning C4244: '=' : conversión de 'double' a 'short'; posible pérdida de datos
+     1>e:\c++\ejercicio c++1\ejercicio c++1\ejercicio c++1.cpp(23): error C2065: 'sueldot' : identificador no declarado
+     1>e:\c++\ejercicio c++1\ejercicio c++1\ejercicio c++1.cpp(24): error C2065: 'sueldot' : identificador no declarado
+     1>e:\c++\ejercicio c++1\ejercicio c++1\ejercicio c++1.cpp(28): warning C4244: '=' : conversión de 'double' a 'short'; posible pérdida de datos
+     1>e:\c++\ejercicio c++1\ejercicio c++1\ejercicio c++1.cpp(29): error C2065: 'sueldot' : identificador no declarado
+     1>e:\c++\ejercicio c++1\ejercicio c++1\ejercicio c++1.cpp(30): error C2065: 'sueldot' : identificador no declarado
+     1>Compilación del proyecto terminada "E:\C++\Ejercicio c++1\Ejercicio c++1\Ejercicio c++1.vcxproj" (build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:09.81

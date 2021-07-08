@@ -1,0 +1,20 @@
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\bin\Debug\promedio alumno 10.exe
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\bin\Debug\promedio alumno 10.pdb
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\bin\Debug\promedio alumno 10.xml
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\promedio_alumno_.Resources.resources
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\promedio alumno 10.exe
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\promedio alumno 10.xml
+E:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\promedio alumno 10.pdb
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\promedio alumno 10.exe
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\promedio alumno 10.xml
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\promedio alumno 10.pdb
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\bin\Debug\promedio alumno 10.exe
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\bin\Debug\promedio alumno 10.pdb
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\bin\Debug\promedio alumno 10.xml
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\promedio_alumno_.Resources.resources
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 1\Promedio Alumno\promedio alumno 10\promedio alumno 10\obj\x86\Debug\GenerateResource.write.1.tlog

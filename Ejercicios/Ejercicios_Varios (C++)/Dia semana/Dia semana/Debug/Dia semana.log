@@ -1,0 +1,28 @@
+﻿Compilación iniciada a las 13/10/2015 04:18:48 p.m..
+     1>Proyecto "F:\C++\Dia semana\Dia semana\Dia semana.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\Dia semana.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Dia semana.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Dia semana.cpp"
+         Dia semana.cpp
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++\Dia semana\Debug\Dia semana.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Dia semana.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\C++\Dia semana\Debug\Dia semana.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C++\Dia semana\Debug\Dia semana.lib" /MACHINE:X86 "Debug\Dia semana.exe.embed.manifest.res"
+         "Debug\Dia semana.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Dia semana.exe.embed.manifest" /manifest "Debug\Dia semana.exe.intermediate.manifest"
+         Todas las salidas están actualizadas.
+       LinkEmbedManifest:
+         Todas las salidas están actualizadas.
+         Dia semana.vcxproj -> F:\C++\Dia semana\Debug\Dia semana.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\Dia semana.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\Dia semana.lastbuildstate".
+     1>Compilación del proyecto terminada "F:\C++\Dia semana\Dia semana\Dia semana.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:33.99

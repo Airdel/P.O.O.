@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ciclos (Clase guiada)", "Ciclos (Clase guiada)\Ciclos (Clase guiada).vcxproj", "{66B4B339-2AF1-48D2-BE85-C3A30375415F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B4B339-2AF1-48D2-BE85-C3A30375415F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66B4B339-2AF1-48D2-BE85-C3A30375415F}.Debug|Win32.Build.0 = Debug|Win32
+		{66B4B339-2AF1-48D2-BE85-C3A30375415F}.Release|Win32.ActiveCfg = Release|Win32
+		{66B4B339-2AF1-48D2-BE85-C3A30375415F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

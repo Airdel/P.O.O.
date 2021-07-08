@@ -1,0 +1,10 @@
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\bin\Debug\Triangulo.xml
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\obj\Debug\Triangulo.vbprojResolveAssemblyReference.cache
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\obj\Debug\Triangulo.Resources.resources
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\obj\Debug\Triangulo.vbproj.GenerateResource.Cache
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\obj\Debug\Triangulo.xml
+G:\Programacion\POO\Reporte 1\Triangulo\Triangulo\obj\Debug\Triangulo.pdb

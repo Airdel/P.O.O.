@@ -1,0 +1,11 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\bin\Debug\Clase 6 (Botonsitos kawaiis).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\bin\Debug\Clase 6 (Botonsitos kawaiis).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\bin\Debug\Clase 6 (Botonsitos kawaiis).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\bin\Debug\Clase 6 (Botonsitos kawaiis).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\obj\Debug\Clase 6 (Botonsitos kawaiis).vbprojResolveAssemblyReference.cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\obj\Debug\Clase_6__Botonsitos_kawaiis_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\obj\Debug\Clase_6__Botonsitos_kawaiis_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\obj\Debug\Clase 6 (Botonsitos kawaiis).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\obj\Debug\Clase 6 (Botonsitos kawaiis).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\obj\Debug\Clase 6 (Botonsitos kawaiis).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 6 (Botonsitos kawaiis)\Clase 6 (Botonsitos kawaiis)\obj\Debug\Clase 6 (Botonsitos kawaiis).pdb

@@ -1,0 +1,10 @@
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\bin\Debug\condensadores 10.exe
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\bin\Debug\condensadores 10.pdb
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\bin\Debug\condensadores 10.xml
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\obj\x86\Debug\condensadores 10.exe
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\obj\x86\Debug\condensadores 10.xml
+E:\Programacion\POO\Reporte 1\Condensadores\condensadores 10\condensadores 10\obj\x86\Debug\condensadores 10.pdb

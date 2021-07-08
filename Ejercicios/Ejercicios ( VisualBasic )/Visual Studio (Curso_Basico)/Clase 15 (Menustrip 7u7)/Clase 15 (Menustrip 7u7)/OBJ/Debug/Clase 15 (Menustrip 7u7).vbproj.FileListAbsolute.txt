@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\bin\Debug\Clase 15 (Menustrip 7u7).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\bin\Debug\Clase 15 (Menustrip 7u7).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\bin\Debug\Clase 15 (Menustrip 7u7).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\bin\Debug\Clase 15 (Menustrip 7u7).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\obj\Debug\Clase_15__Menustrip_7u7_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\obj\Debug\Clase_15__Menustrip_7u7_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\obj\Debug\Clase 15 (Menustrip 7u7).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\obj\Debug\Clase 15 (Menustrip 7u7).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\obj\Debug\Clase 15 (Menustrip 7u7).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 15 (Menustrip 7u7)\Clase 15 (Menustrip 7u7)\obj\Debug\Clase 15 (Menustrip 7u7).pdb

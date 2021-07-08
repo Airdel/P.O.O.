@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 21/10/2015 12:06:58 p. m..
+     1>Proyecto "F:\C++\año biciesto v2015\año biciesto v2015\año biciesto v2015.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\año biciesto v2015.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "año biciesto v2015.cpp"
+         año biciesto v2015.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++\año biciesto v2015\a\Debug\año biciesto v2015.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\C++\año biciesto v2015\a\Debug\año biciesto v2015.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C++\año biciesto v2015\a\Debug\año biciesto v2015.lib" /MACHINE:X86 "Debug\año biciesto v2015.obj"
+         Debug\stdafx.obj
+         año biciesto v2015.vcxproj -> F:\C++\año biciesto v2015\a\Debug\año biciesto v2015.exe
+     1>Compilación del proyecto terminada "F:\C++\año biciesto v2015\año biciesto v2015\año biciesto v2015.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:27.17

@@ -1,0 +1,10 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\bin\Debug\Clase8 (operadores logicos-san).exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\bin\Debug\Clase8 (operadores logicos-san).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\bin\Debug\Clase8 (operadores logicos-san).pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\bin\Debug\Clase8 (operadores logicos-san).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\obj\Debug\Clase8__operadores_logicos_san_.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\obj\Debug\Clase8__operadores_logicos_san_.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\obj\Debug\Clase8 (operadores logicos-san).vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\obj\Debug\Clase8 (operadores logicos-san).exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\obj\Debug\Clase8 (operadores logicos-san).xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase8 (operadores logicos-san)\Clase8 (operadores logicos-san)\obj\Debug\Clase8 (operadores logicos-san).pdb

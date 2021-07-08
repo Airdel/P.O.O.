@@ -1,0 +1,10 @@
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\bin\Debug\Mayor 2 numeros.exe
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\bin\Debug\Mayor 2 numeros.pdb
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\bin\Debug\Mayor 2 numeros.xml
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\obj\x86\Debug\Mayor_2_numeros.Resources.resources
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\obj\x86\Debug\Mayor 2 numeros.exe
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\obj\x86\Debug\Mayor 2 numeros.xml
+F:\Programacion\POO\Reporte 1\Mayor 2 numeros\Mayor 2 numeros\obj\x86\Debug\Mayor 2 numeros.pdb

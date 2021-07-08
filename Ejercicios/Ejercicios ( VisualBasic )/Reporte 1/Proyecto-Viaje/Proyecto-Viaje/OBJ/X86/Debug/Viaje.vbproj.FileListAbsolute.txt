@@ -1,0 +1,10 @@
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\bin\Debug\Viaje.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\bin\Debug\Viaje.pdb
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\bin\Debug\Viaje.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\obj\x86\Debug\Viaje.Resources.resources
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\obj\x86\Debug\Viaje.exe
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\obj\x86\Debug\Viaje.xml
+C:\Users\mac4\AppData\Local\Temporary Projects\Viaje\obj\x86\Debug\Viaje.pdb

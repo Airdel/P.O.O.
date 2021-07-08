@@ -1,0 +1,19 @@
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\cancionClase\cancionClase\bin\Debug\cancionClase.exe.config
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\cancionClase\cancionClase\bin\Debug\cancionClase.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\cancionClase\cancionClase\bin\Debug\cancionClase.pdb
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\cancionClase\cancionClase\bin\Debug\cancionClase.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.Resources.resources
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.vbproj.GenerateResource.Cache
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.exe
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.xml
+C:\Users\Adrian_2\Documents\Visual Studio 2013\Projects\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\bin\Debug\cancionClase.exe.config
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.exe
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.xml
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\bin\Debug\cancionClase.exe
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\bin\Debug\cancionClase.pdb
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\bin\Debug\cancionClase.xml
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.vbprojResolveAssemblyReference.cache
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.Resources.resources
+C:\Users\Adrian_2\Documents\CONALEP\Materias\Programacion Orientada a Objetos\Codigos Fuente\VB\EJEMPLOS POO VB\Clases\cancionClase\cancionClase\obj\Debug\cancionClase.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\bin\Debug\Promedio Alumno.exe.config
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\bin\Debug\Promedio Alumno.exe
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\bin\Debug\Promedio Alumno.pdb
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\bin\Debug\Promedio Alumno.xml
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\obj\Debug\Promedio Alumno.vbprojResolveAssemblyReference.cache
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\obj\Debug\Promedio_Alumno.Resources.resources
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\obj\Debug\Promedio Alumno.vbproj.GenerateResource.Cache
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\obj\Debug\Promedio Alumno.exe
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\obj\Debug\Promedio Alumno.xml
+S:\Programacion\Visual Basic\Promedio Alumno\Promedio Alumno\obj\Debug\Promedio Alumno.pdb

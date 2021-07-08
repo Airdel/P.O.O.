@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 18/11/2015 02:52:33 p.m..
+     1>Proyecto "G:\C++\Macros chan\Macros chan\Macros chan.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Aplicando tarea Touch a "Debug\Macros chan.unsuccessfulbuild".
+       ClCompile:
+         Todas las salidas están actualizadas.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Macros chan.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Macros chan.cpp"
+         Macros chan.cpp
+     1>g:\c++\macros chan\macros chan\macros chan.cpp(33): error C2059: error de sintaxis : 'if'
+     1>Compilación del proyecto terminada "G:\C++\Macros chan\Macros chan\Macros chan.vcxproj" (build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:01.50

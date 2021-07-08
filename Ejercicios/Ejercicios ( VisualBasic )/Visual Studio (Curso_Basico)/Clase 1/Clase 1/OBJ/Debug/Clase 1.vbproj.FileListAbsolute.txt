@@ -1,0 +1,11 @@
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\bin\Debug\Clase 1.exe.config
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\bin\Debug\Clase 1.exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\bin\Debug\Clase 1.pdb
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\bin\Debug\Clase 1.xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\obj\Debug\Clase 1.vbprojResolveAssemblyReference.cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\obj\Debug\Clase_1.Form1.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\obj\Debug\Clase_1.Resources.resources
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\obj\Debug\Clase 1.vbproj.GenerateResource.Cache
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\obj\Debug\Clase 1.exe
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\obj\Debug\Clase 1.xml
+C:\Users\RAFAEL\Documents\Visual Studio 2015\Projects\Clase 1\Clase 1\obj\Debug\Clase 1.pdb
